@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/login_page"
+        android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+        android:title="Edit"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/filter_user"
+        android:icon="@drawable/ic_filter_list"
+        android:title="Edit"
+        app:showAsAction="always"/>
+
+
+</menu>

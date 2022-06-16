@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0066FF</color>
+    <color name="colorPrimaryDark">#140078</color>
+    <color name="colorAccent">#00897B</color>
+
+    <color name="gold">#D4AF37</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="bronze1">#cd7f32</color>
+
+    <color name="bronze">#44498b</color>
+    <color name="bronze2">#706357</color>
+    <color name="bronze3">#371d10</color>
+    <color name="bronze4">#7e6452</color>
+    <color name="bronzing">#e183765b</color>
+    <color name="back">@color/colorPrimaryDark</color>
+
+    <color name="opened_back">#d7d0c2</color>
+    <color name="bg_row_background">#fa315b</color>
+    <color name="item_name">#535353</color>
+    <color name="description">#a9a9a9</color>
+    <color name="black">#030303</color>
+    <color name="black_grey">#505151</color>
+    <color name="colorGray">#CCCCCC</color>
+    <color name="gray">#f9f6f3</color>
+    <color name="transparent">#00ffffff</color>
+
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+
+    <color name="white">#ffffff</color>
+    <color name="light_grey">#e1e1e1</color>
+    <color name="orange">#f9a825</color>
+    <color name="red">#E53935</color>
+    <color name="light_green">#a5d6a7</color>
+    <color name="green">#1af423</color>
+    <color name="green_dark">#43A047</color>
+    <color name="pink">#ff5252</color>
+    <color name="yellow">#ef5350</color>
+    <color name="hintTextColor">#bcb9b9</color>
+
+    <color name="back_color">#e8eaec</color>
+    <color name="blue">#57a6f0</color>
+    <color name="starColor">#57a6f0</color>
+    <color name="noteDescriptionTextColor">#57a6f0</color>
+    <color name="titleTextColor">#D9141627</color>
+    <color name="descriptionTextColor">#80141627</color>
+    <color name="commentTextColor">#D9141627</color>
+    <color name="first">#64737E</color>
+    <color name="second">#b49a65</color>
+    <color name="third">#8b8f6a</color>
+    <color name="fourth">#7E7D64</color>
+    <color name="bigColor">#1E88E5</color>
+    <color name="cyan">#00BCD4</color>
+
+    <color name="contentBodyColor">#000</color>
+    <color name="contentTextColor">#fff</color>
+    <color name="bottomNavigationBackground">#000</color>
+    <color name="miniTitleColor">#fff</color>
+
+
+    <color name="whiteTextColor">#fff</color>
+    <color name="frutorial_title">#4c4c4c</color>
+
+
+    <!--gradient colors-->
+    <color name="gradientOrange">#FF416C</color>
+    <color name="gradientViolet">#8A52E9</color>
+    <color name="gradientLightYellow">#FFA72F</color>
+    <color name="gradientLightOrange">#FF641A</color>
+    <color name="gradientLightYellow2">#FFC92B</color>
+    <color name="gradientLightOrange2">#FF7765</color>
+    <color name="gradientOrange3">#F7A23C</color>
+    <color name="gradientLightBlue">#376DF6</color>
+    <color name="gradientLightGreen">#21E8AC</color>
+
+</resources>

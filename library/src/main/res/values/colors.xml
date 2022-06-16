@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="bronze">#3F51B5</color>
+    <color name="bronze2">#303F9F</color>
+    <color name="back">@color/colorPrimaryDark</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bg_row_background">#fa315b</color>
+    <color name="item_name">#535353</color>
+    <color name="description">#a9a9a9</color>
+    <color name="black">#030303</color>
+    <color name="black_grey">#505151</color>
+    <color name="colorGray">#CCCCCC</color>
+    <color name="transparent">#00ffffff</color>
+
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+
+    <color name="white">#ffffff</color>
+    <color name="light_grey">#e1e1e1</color>
+    <color name="orange">#f9a825</color>
+    <color name="red">#e57373</color>
+    <color name="light_green">#a5d6a7</color>
+    <color name="pink">#ff5252</color>
+    <color name="yellow">#ef5350</color>
+</resources>

@@ -1,0 +1,286 @@
+<resources>
+    <string name="app_name"> Book Crossing</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="photoLoading">Image uploading..</string>
+    <string name="inetConnection">Check internet connection</string>
+    <string name="enter_group">Enter group name</string>
+    <string name="enter_group_error">fill group name</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete">Өшіру</string>
+    <string name="del_profile_subjects">Өшіруді қалайсыз ба?</string>
+    <string name="profile_subjects_deleted">Группа сәтті өшірілді!</string>
+
+    <!--    Menu strings-->
+    <string name="menu_books">Books</string>
+    <string name="menu_users">Users Rating</string>
+    <string name="menu_groups">Groups</string>
+    <string name="menu_rules">Rules</string>
+    <string name="menu_about_us">About us</string>
+    <string name="menu_change_language">Change Language</string>
+    <string name="menu_sing_out">Sign Out</string>
+
+    <!--    Book List strings-->
+    <string name="bookDescFragment">Description</string>
+    <string name="userReadingFragment">Reading user</string>
+    <string name="alreadyReadFragment">Already read</string>
+    <string name="userReviewsFragment">Reviews</string>
+
+    <!--    AddBook strings-->
+    <string name="add_book">Add Book</string>
+    <string name="edit_book">Edit Book</string>
+    <string name="change_image">Change Image</string>
+    <string name="scan_code">Scan code: </string>
+    <string name="scan_error">Qr scanner error</string>
+    <string name="change_bimage">Change Book Image</string>
+    <string name="uploaded">Uploaded </string>
+    <string name="b_fill_name">Please fill name</string>
+    <string name="b_fill_author">Please fill author </string>
+    <string name="b_fill_desc">Please fill description</string>
+    <string name="b_fill_page_number">Please fill page number</string>
+    <string name="b_fill_amount">Please fill amount of book</string>
+    <string name="b_fill_qr_code">Please scan book qr code</string>
+    <string name="b_fill_book_img">Please select book image</string>
+    <string name="book_added">Book added</string>
+    <string name="book_saved">Book saved</string>
+    <string name="b_image_error">Error with book image, try again!</string>
+    <string name="can_not_booklist_ver">Can not find book_list_ver firebase</string>
+
+    <string name="permission_granted">Permission already granted!</string>
+    <string name="permission_granted_access_camera">Permission Granted, Now you can access camera</string>
+    <string name="permission_granted_not_access_camera">Permission Denied, You cannot access and camera</string>
+    <string name="permission_both">You need to allow access to both the permissionsa</string>
+    <string name="group">Group: </string>
+    <string name="books">Books: </string>
+    <string name="page">Page: </string>
+    <string name="read_books">Read Books</string>
+    <string name="book_name">Book Name</string>
+    <string name="book_author">Book Author</string>
+    <string name="rating">Rating:</string>
+    <string name="read">Read</string>
+    <string name="upload_book_image">Upload Book Image</string>
+    <string name="enter_book_name">enter book name</string>
+    <string name="enter_author">enter author</string>
+    <string name="enter_desc">enter description</string>
+    <string name="enter_page_number">enter page number</string>
+    <string name="enter_amount_of_book">enter amount of book</string>
+    <string name="scanner_qr_code">scanner book qr Code</string>
+    <string name="not_finished_book">You have an unfinished book, you need to finish it to get a new book!</string>
+    <string name="sure_read_book">Are you sure to read this book?</string>
+    <string name="book_added_to_profile">Book added to your profile</string>
+    <string name="book_deleted">Book deleted</string>
+
+    <!--    Authentications strings-->
+    <string name="enter_code">Please enter code from SMS</string>
+    <string name="code_sent">Code has been sent to </string>
+    <string name="email_sent">A link has been sent to User Mail</string>
+    <string name="email_sent_error">There was an error sending a link to the mail, try again from the beginning</string>
+    <string name="send_reset_password">We have sent you instructions to reset your password!</string>
+    <string name="railed_send_reset_email">"Failed to send reset email!"</string>
+    <string name="user_phone_duplicate">User with this Phone number already exist</string>
+    <string name="login_or_pass_error">Email or password entered incorrectly!</string>
+    <string name="admin_email_error">Incorrect Admin Email</string>
+    <string name="user_group_not_exist">User group is not exist</string>
+    <string name="fill_all">Please fill all info</string>
+    <string name="fill_info">Please fill info</string>
+    <string name="fill_email">Please fill email correctly</string>
+    <string name="fill_number">Please fill Number</string>
+    <string name="incorrect_phone_number">Incorrect phone number</string>
+    <string name="incorrect_pin_number">PIN code is incorrect, please check and rewrite</string>
+
+
+    <!--    Group strings-->
+    <string name="groups">Groups </string>
+
+    <!--    Add User strings-->
+    <string name="add_user">Add User</string>
+    <string name="edit_user">Edit User</string>
+    <string name="users">users</string>
+    <string name="user">User: </string>
+    <string name="call">CALL</string>
+    <string name="sms">SMS</string>
+    <string name="user_profile">User Profile </string>
+    <string name="password_enter_error">Password incorrectly, try again!</string>
+    <string name="email_enter_error">Email incorrectly, try again!</string>
+    <string name="email_duplicat_error">User included with such mail!</string>
+    <string name="submit">Submit</string>
+    <string name="group_added">Group added successfully</string>
+    <string name="surname_name">Surname, Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="user_rating">Rating in Group</string>
+    <string name="point">Point</string>
+    <string name="points">Point: </string>
+    <string name="choose_group">Choose group:</string>
+    <string name="register_user">Register User</string>
+    <string name="admin_rate_txt">Admin rate: </string>
+    <string name="all">All</string>
+    <string name="data_loading">Please wait, data is downloading</string>
+    <string name="write_a_review">Write a Review</string>
+    <string name="check_a_review">Check a Review</string>
+    <string name="rate_it">Rate it</string>
+    <string name="user_rated">User rated</string>
+    <string name="user_saved">User saved</string>
+    <string name="admin_rate">Admin rate review</string>
+    <string name="admin_not_rated">not rated yet</string>
+    <string name="save">Save</string>
+    <string name="rating_error">Rating or Review text invalid</string>
+    <string name="sort_name">SORT BY NAME</string>
+    <string name="sort_book">SORT BY READ BOOKS</string>
+    <string name="sort_point">SORT BY POINT</string>
+    <string name="filter_gold">Filter BY Gold users</string>
+    <string name="filter_silver">Filter BY Silver users</string>
+    <string name="filter_bronze">Filter BY Bronze users</string>
+    <string name="filter_other">Filter BY Not rated users</string>
+    <string name="filter_all">Show all users</string>
+    <string name="not_logged_in_yet">not logged in yet</string>
+    <string name="re_calc_points">Scores of groups and users are being calculated, wait ..</string>
+    <string name="rated_successfully">rated successfully</string>
+    <string name="reading">Reading</string>
+    <string name="readed">Readed</string>
+    <string name="reviews">Reviews</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="delete_user">Delete User!</string>
+    <string name="sure_delete_user">Are you sure to delete user: </string>
+    <string name="user_deleted">User deleted</string>
+
+    <!--    Rule strings-->
+    <string name="rule">Rule: </string>
+    <string name="enter_rule_title">Enter rule title</string>
+    <string name="enter_rule_title_error">Fill rule title</string>
+    <string name="enter_rule_desc">Enter rule desc</string>
+    <string name="enter_rule_desc_error">Fill rule desc</string>
+    <string name="rule_added">Rule successfully added</string>
+    <string name="rule_changed">Rule successfully changed</string>
+    <string name="rule_delete">Are you sure to delete this rule?</string>
+    <string name="rule_deleted">Rule deleted</string>
+
+    <!--    Settings strings-->
+    <string name="lang_chaned">Language Changed</string>
+
+    <!--    About us strings-->
+    <string name="ceo_mds_program"> Programmer</string>
+    <string name="ceo_mds_reads"> Programmer</string>
+    <string name="project_developer">Project Developer</string>
+    <string name="project_manager">Project Manager</string>
+
+    <integer-array name="gradientStore">
+        <item>@drawable/gradient1</item>
+        <item>@drawable/gradient2</item>
+        <item>@drawable/gradient3</item>
+        <item>@drawable/gradient4</item>
+        <item>@drawable/gradient5</item>
+        <item>@drawable/gradient6</item>
+        <item>@drawable/gradient7</item>
+        <item>@drawable/gradient8</item>
+        <item>@drawable/gradient1</item>
+        <item>@drawable/gradient2</item>
+        <item>@drawable/gradient3</item>
+        <item>@drawable/gradient4</item>
+        <item>@drawable/gradient5</item>
+        <item>@drawable/gradient6</item>
+        <item>@drawable/gradient7</item>
+        <item>@drawable/gradient8</item>
+        <item>@drawable/gradient1</item>
+        <item>@drawable/gradient2</item>
+        <item>@drawable/gradient3</item>
+        <item>@drawable/gradient4</item>
+        <item>@drawable/gradient5</item>
+        <item>@drawable/gradient6</item>
+        <item>@drawable/gradient7</item>
+        <item>@drawable/gradient8</item>
+    </integer-array>
+
+    <integer-array name="subjectStore">
+        <item>@drawable/subject1</item>
+        <item>@drawable/subject2</item>
+        <item>@drawable/subject3</item>
+        <item>@drawable/subject4</item>
+        <item>@drawable/subject5</item>
+        <item>@drawable/subject1</item>
+        <item>@drawable/subject2</item>
+        <item>@drawable/subject3</item>
+        <item>@drawable/subject4</item>
+        <item>@drawable/subject5</item>
+        <item>@drawable/subject1</item>
+        <item>@drawable/subject2</item>
+        <item>@drawable/subject3</item>
+        <item>@drawable/subject4</item>
+        <item>@drawable/subject5</item>
+        <item>@drawable/subject1</item>
+        <item>@drawable/subject2</item>
+        <item>@drawable/subject3</item>
+        <item>@drawable/subject4</item>
+        <item>@drawable/subject5</item>
+    </integer-array>
+
+    <integer-array name="colorStore">
+        <item>@color/bigColor</item>
+        <item>@color/cyan</item>
+        <item>@color/orange</item>
+        <item>@color/red</item>
+        <item>@color/light_green</item>
+        <item>@color/pink</item>
+        <item>@color/bigColor</item>
+        <item>@color/cyan</item>
+        <item>@color/orange</item>
+        <item>@color/red</item>
+        <item>@color/light_green</item>
+        <item>@color/pink</item>
+        <item>@color/bigColor</item>
+        <item>@color/cyan</item>
+        <item>@color/orange</item>
+        <item>@color/red</item>
+        <item>@color/light_green</item>
+        <item>@color/pink</item>
+    </integer-array>
+
+    <string-array name="months">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="months2">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="monthStore">
+        <item>Қаңтар</item>
+        <item>Ақпан</item>
+        <item>Наурыз</item>
+        <item>Сәуір</item>
+        <item>Мамыр</item>
+        <item>Маусым</item>
+        <item>Шілде</item>
+        <item>Тамыз</item>
+        <item>Қыркүйек</item>
+        <item>Қазан</item>
+        <item>Қараша</item>
+        <item>Желтоқсан</item>
+    </string-array>
+
+
+</resources>

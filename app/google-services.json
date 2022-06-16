@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "862259271189",
+    "firebase_url": "https://reading-club-e69cc.firebaseio.com",
+    "project_id": "reading-club-e69cc",
+    "storage_bucket": "reading-club-e69cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862259271189:android:9d198a7add4239aa",
+        "android_client_info": {
+          "package_name": "kz.incubator.mds.reads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862259271189-bkpbne1s9t4u2qrfta8g37tjvs47us3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kz.incubator.sdcl.club1",
+            "certificate_hash": "87e055ed46c86e4a31c8beb9fc09d7ff14c79679"
+          }
+        },
+        {
+          "client_id": "862259271189-s0sah4iif25rljscr0udf8in6bn72qi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV70z0O_oWEs_9egFicY8BYZ-DBxEnyhc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862259271189-s0sah4iif25rljscr0udf8in6bn72qi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

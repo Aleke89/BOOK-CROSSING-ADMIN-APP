@@ -1,0 +1,279 @@
+<resources>
+    <string name="app_name">Book Crossing</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="photoLoading">Загрузка изображения..</string>
+    <string name="inetConnection">Проверьте интернет-соединение</string>
+    <string name="enter_group">Введите название группы</string>
+    <string name="enter_group_error">заполнить название группы</string>
+
+
+    <!--    Menu strings-->
+
+    <string name="menu_books">Книги</string>
+    <string name="menu_groups">Группы</string>
+    <string name="menu_rules">Правила</string>
+    <string name="menu_about_us">Про нас</string>
+    <string name="menu_change_language">Изменить язык</string>
+    <string name="menu_sing_out">Выйти</string>
+
+    <!--    End Menu strings-->
+    <string name="ok">Хорошо</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="delete">Удалить</string>
+    <string name="del_profile_subjects">Вы хотите удалить?</string>
+    <string name="profile_subjects_deleted">Группа удалена!</string>
+    <string name="menu_users">Рейтинг Пользователей</string>
+    <string name="bookDescFragment">Описание</string>
+    <string name="userReadingFragment">Читающие Пользователи</string>
+    <string name="alreadyReadFragment">Уже прочитано</string>
+    <string name="userReviewsFragment">Отзывы</string>
+    <string name="edit_book">Редактировать книгу</string>
+    <string name="change_image">Сменить фото</string>
+    <string name="scan_code">Сканировать код: </string>
+    <string name="scan_error">Ошибка QR-сканера</string>
+    <string name="change_bimage">Сменить картину книги</string>
+    <string name="uploaded">Загружено </string>
+    <string name="b_fill_name">Пожалуйста, заполните имя</string>
+    <string name="b_fill_author">Пожалуйста, заполните автора </string>
+    <string name="b_fill_desc">Пожалуйста, заполните описание</string>
+    <string name="b_fill_page_number">Пожалуйста, заполните номер страницы</string>
+    <string name="b_fill_amount">Пожалуйста, заполните количество книг</string>
+    <string name="b_fill_qr_code">Пожалуйста, отсканируйте qr-код книги</string>
+    <string name="b_fill_book_img">Пожалуйста, выберите изображение книги</string>
+    <string name="book_added">Книга добавлена</string>
+    <string name="book_saved">Книга сохранена</string>
+    <string name="b_image_error">Ошибка с изображением книги, попробуйте еще раз!</string>
+    <string name="can_not_booklist_ver">Не удается найти базу данных book_list_ver firebase</string>
+    <string name="permission_granted">Разрешение уже получено!</string>
+    <string name="permission_granted_access_camera">Разрешение предоставлено, теперь вы можете получить доступ к камере</string>
+    <string name="permission_granted_not_access_camera">В доступе отказано, вы не можете получить доступ к камере</string>
+    <string name="permission_both">Вам необходимо разрешить доступ к обоим разрешениям</string>
+    <string name="group">Группа: </string>
+    <string name="page">Страница: </string>
+    <string name="not_finished_book">У вас есть незаконченная книга, вам нужно закончить ее, чтобы получить новую книгу!</string>
+    <string name="sure_read_book">Вы уверены, что читаете эту книгу?</string>
+    <string name="book_added_to_profile">Книга добавлена в ваш профиль</string>
+    <string name="book_deleted">Книга удалена</string>
+    <string name="send_reset_password">Мы отправили вам инструкции по сбросу пароля!</string>
+    <string name="railed_send_reset_email">"Не удалось отправить письмо для сброса!"</string>
+    <string name="login_or_pass_error">Email или пароль введены неверно!</string>
+    <string name="admin_email_error">Неправильный адрес электронной почты администратора</string>
+    <string name="fill_all">Пожалуйста, заполните всю информацию</string>
+    <string name="incorrect_phone_number">Неверный номер телефона</string>
+    <string name="incorrect_pin_number">PIN-код неверный, пожалуйста, проверьте и перепишите</string>
+    <string name="groups">Группы </string>
+    <string name="add_user">Добавить пользователя</string>
+    <string name="edit_user">Изменить пользователя</string>
+    <string name="users">пользователи</string>
+    <string name="user">Пользователь: </string>
+    <string name="call">ВЫЗОВ</string>
+    <string name="sms">смс</string>
+    <string name="user_profile">Профиль пользователя </string>
+    <string name="password_enter_error">Неверный пароль, попробуйте еще раз!</string>
+    <string name="email_enter_error">Электронная почта неверна, попробуйте еще раз!</string>
+    <string name="email_duplicat_error">Пользователь включен с такой почтой!</string>
+    <string name="user_saved">Пользователь сохранен</string>
+    <string name="admin_not_rated">еще не оценено</string>
+    <string name="filter_gold">Фильтровать пользователей ПО Gold</string>
+    <string name="filter_silver">Фильтровать пользователей уровня Silver ПО</string>
+    <string name="filter_bronze">Фильтровать по бронзовым пользователям</string>
+    <string name="filter_other">Фильтровать по пользователям без рейтинга</string>
+    <string name="filter_all">Показать всех пользователей</string>
+    <string name="reading">Чтение</string>
+    <string name="readed">Прочитано</string>
+    <string name="reviews">Отзывы</string>
+    <string name="recommendations">Рекомендации</string>
+    <string name="delete_user">Удалить пользователя!</string>
+    <string name="sure_delete_user">Вы уверены, что хотите удалить пользователя: </string>
+    <string name="user_deleted">Пользователь удален</string>
+    <string name="lang_chaned">Язык изменен</string>
+    <string name="ceo_mds_program">Программист</string>
+    <string name="ceo_mds_reads"> Программист</string>
+    <string name="project_developer">Разработчик проекта</string>
+    <string name="project_manager">Руководитель проекта</string>
+    <!--    Rule strings-->
+
+    <string name="rule">Правило: </string>
+    <string name="enter_rule_title">Введите название правила</string>
+    <string name="enter_rule_title_error">Заполнить заголовок правила</string>
+    <string name="enter_rule_desc">Введите описание правила</string>
+    <string name="enter_rule_desc_error">Заполнить описание правила</string>
+    <string name="rule_added">Правило успешно добавлено</string>
+    <string name="rule_changed">Правило успешно изменено</string>
+    <string name="rule_delete">Вы уверены, что хотите удалить это правило?</string>
+    <string name="rule_deleted">Правило удалено</string>
+
+    <!--    End rule strings-->
+
+    <string name="submit">Отправить</string>
+    <string name="cancel">Отмена</string>
+    <string name="group_added">Группа успешно добавлена</string>
+    <string name="surname_name">Фамилия Имя</string>
+    <string name="email">Эл. адрес</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="user_rating">Рейтинг в группе</string>
+    <string name="point">Точка</string>
+    <string name="points">Точка: </string>
+    <string name="books">Книги: </string>
+    <string name="read_books">Читать книги</string>
+    <string name="choose_group">Выберите группу:</string>
+    <string name="register_user">Зарегистрировать пользователя</string>
+    <string name="admin_rate_txt">Скорость администратора: </string>
+
+    <string name="book_name">Название книги</string>
+    <string name="book_author">Автор книги</string>
+    <string name="rating">Рейтинг:</string>
+    <string name="read">Читать</string>
+    <string name="upload_book_image">Загрузить изображение книги</string>
+    <string name="enter_book_name">введите название книги</string>
+    <string name="enter_author">введите автора</string>
+    <string name="enter_desc">введите описание</string>
+    <string name="enter_page_number">введите номер страницы</string>
+    <string name="enter_amount_of_book">введите количество книг</string>
+    <string name="scanner_qr_code">сканер книга qr код</string>
+    <string name="add_book">Добавить книгу</string>
+    <string name="all">Все</string>
+    <string name="data_loading">Подождите, информация загружается.</string>
+
+    <string name="enter_code">Введите код из SMS</string>
+    <string name="code_sent">Код выслан на </string>
+    <string name="email_sent">Ссылка отправлена ​​на почту пользователя</string>
+    <string name="email_sent_error">Произошла ошибка при отправке ссылки на почту, попробуйте еще раз с начала</string>
+    <string name="user_phone_duplicate">"User with this Phone number already exist</string>
+    <string name="user_group_not_exist">Группа пользователей не включена</string>
+    <string name="fill_info">Пожалуйста, заполните информацию</string>
+    <string name="fill_email">Пожалуйста, заполните адрес электронной почты правильно</string>
+    <string name="fill_number">Пожалуйста, заполните номер</string>
+    <string name="write_a_review">Написать рецензию</string>
+    <string name="check_a_review">Проверить обзор</string>
+    <string name="rate_it">Оценить</string>
+    <string name="user_rated">Пользователь оценил</string>
+    <string name="admin_rate">Административный обзор рейтинга</string>
+    <string name="save">Сохранять</string>
+    <string name="rating_error">Недопустимый текст оценки или отзыва</string>
+    <string name="sort_name">СОРТИРОВАТЬ ПО ИМЕНИ</string>
+    <string name="sort_book">СОРТИРОВАТЬ ПО ПРОЧИТАННЫМ КНИГАМ</string>
+    <string name="sort_point">СОРТИРОВАТЬ ПО ПУНКТАМ</string>
+    <string name="not_logged_in_yet">еще не авторизовался</string>
+    <string name="re_calc_points">Подсчитываются баллы групп и пользователей, подождите..</string>
+    <string name="rated_successfully">успешно оценен</string>
+
+    <integer-array name="gradientStore">
+        <item>@drawable/gradient1</item>
+        <item>@drawable/gradient2</item>
+        <item>@drawable/gradient3</item>
+        <item>@drawable/gradient4</item>
+        <item>@drawable/gradient5</item>
+        <item>@drawable/gradient6</item>
+        <item>@drawable/gradient7</item>
+        <item>@drawable/gradient8</item>
+        <item>@drawable/gradient1</item>
+        <item>@drawable/gradient2</item>
+        <item>@drawable/gradient3</item>
+        <item>@drawable/gradient4</item>
+        <item>@drawable/gradient5</item>
+        <item>@drawable/gradient6</item>
+        <item>@drawable/gradient7</item>
+        <item>@drawable/gradient8</item>
+        <item>@drawable/gradient1</item>
+        <item>@drawable/gradient2</item>
+        <item>@drawable/gradient3</item>
+        <item>@drawable/gradient4</item>
+        <item>@drawable/gradient5</item>
+        <item>@drawable/gradient6</item>
+        <item>@drawable/gradient7</item>
+        <item>@drawable/gradient8</item>
+    </integer-array>
+
+    <integer-array name="subjectStore">
+        <item>@drawable/subject1</item>
+        <item>@drawable/subject2</item>
+        <item>@drawable/subject3</item>
+        <item>@drawable/subject4</item>
+        <item>@drawable/subject5</item>
+        <item>@drawable/subject1</item>
+        <item>@drawable/subject2</item>
+        <item>@drawable/subject3</item>
+        <item>@drawable/subject4</item>
+        <item>@drawable/subject5</item>
+        <item>@drawable/subject1</item>
+        <item>@drawable/subject2</item>
+        <item>@drawable/subject3</item>
+        <item>@drawable/subject4</item>
+        <item>@drawable/subject5</item>
+        <item>@drawable/subject1</item>
+        <item>@drawable/subject2</item>
+        <item>@drawable/subject3</item>
+        <item>@drawable/subject4</item>
+        <item>@drawable/subject5</item>
+    </integer-array>
+
+    <integer-array name="colorStore">
+        <item>@color/bigColor</item>
+        <item>@color/cyan</item>
+        <item>@color/orange</item>
+        <item>@color/red</item>
+        <item>@color/light_green</item>
+        <item>@color/pink</item>
+        <item>@color/bigColor</item>
+        <item>@color/cyan</item>
+        <item>@color/orange</item>
+        <item>@color/red</item>
+        <item>@color/light_green</item>
+        <item>@color/pink</item>
+        <item>@color/bigColor</item>
+        <item>@color/cyan</item>
+        <item>@color/orange</item>
+        <item>@color/red</item>
+        <item>@color/light_green</item>
+        <item>@color/pink</item>
+    </integer-array>
+
+    <string-array name="months">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="months2">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="monthStore">
+        <item>Қаңтар</item>
+        <item>Ақпан</item>
+        <item>Наурыз</item>
+        <item>Сәуір</item>
+        <item>Мамыр</item>
+        <item>Маусым</item>
+        <item>Шілде</item>
+        <item>Тамыз</item>
+        <item>Қыркүйек</item>
+        <item>Қазан</item>
+        <item>Қараша</item>
+        <item>Желтоқсан</item>
+    </string-array>
+
+
+</resources>

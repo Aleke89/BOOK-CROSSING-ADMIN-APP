@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Book_Crossing_Admin.iml" filepath="$PROJECT_DIR$/.idea/modules/Book_Crossing_Admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Book_Crossing_Admin.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Book_Crossing_Admin.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/Book_Crossing_Admin.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/Book_Crossing_Admin.library.iml" />
+    </modules>
+  </component>
+</project>

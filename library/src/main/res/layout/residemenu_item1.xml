@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="75dp"
+    android:orientation="horizontal"
+    android:background="@drawable/shadow">
+
+    <ImageView
+        android:id="@+id/iv_icon1"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp" />
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="left|center"
+        android:fontFamily="@font/ralewaybold"
+        android:text="Book"
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+
+
+    <!--    <ImageView-->
+    <!--        android:id="@+id/iv_icon1"-->
+    <!--        android:layout_width="30dp"-->
+    <!--        android:layout_height="30dp"-->
+    <!--        android:layout_marginLeft="30dp"-->
+    <!--        android:layout_marginTop="10dp"-->
+    <!--        android:layout_marginRight="10dp"-->
+    <!--        android:layout_marginBottom="10dp"/>-->
+
+    <!--    <TextView-->
+    <!--        android:id="@+id/tv_title"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:fontFamily="@font/ralewaybold"-->
+    <!--        android:gravity="center"-->
+    <!--        android:layout_centerInParent="true"-->
+    <!--        android:text="Book"-->
+    <!--        android:textColor="@color/white"-->
+    <!--        android:textSize="16sp" />-->
+
+
+</LinearLayout>

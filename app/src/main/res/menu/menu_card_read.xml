@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<!--    <item-->
+<!--        android:id="@+id/search_by_card"-->
+<!--        android:icon="@drawable/search_by_card2"-->
+<!--        android:title="Edit"-->
+<!--        app:showAsAction="always"/>-->
+
+    <item
+        android:id="@+id/filter_user"
+        android:icon="@drawable/ic_filter_list"
+        android:title="Filter"
+        app:showAsAction="always"/>
+</menu>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="kz.incubator.sdcl.club1.MainActivity">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="20sp"
+        tools:context="kz.incubator.sdcl.club1.MainActivity">
+
+        <TextView
+            android:id="@+id/bookDesc"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="text" />
+
+    </RelativeLayout>
+
+</android.support.v4.widget.NestedScrollView>

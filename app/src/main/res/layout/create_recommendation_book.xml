@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Author"
+            android:textSize="17dp"
+            android:fontFamily="@font/quick"
+            android:id="@+id/AuthorOfBook"/>
+    </android.support.design.widget.TextInputLayout>
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17dp"
+            android:hint="Book name"
+            android:fontFamily="@font/quick"
+            android:id="@+id/BookName"/>
+    </android.support.design.widget.TextInputLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/addBook"
+        android:foreground="?android:selectableItemBackground"
+        android:clickable="true"
+        android:text="Add recommendation"
+        android:textSize="16dp"
+        android:background="@color/back"
+        android:fontFamily="@font/quick"
+        android:textColor="@color/white"
+        android:layout_margin="10dp"/>
+</LinearLayout>

@@ -1,0 +1,279 @@
+<resources>
+    <string name="app_name">Book Crossing</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="photoLoading">Сурет жүктеп салынуда..</string>
+    <string name="inetConnection">Интернет қосылымын тексеріңіз</string>
+    <string name="enter_group">Топ атын енгізіңіз</string>
+    <string name="enter_group_error">топ атын толтыру</string>
+
+
+    <!--    Menu strings-->
+
+    <string name="menu_books">Кітаптар</string>
+    <string name="menu_groups">Топтар</string>
+    <string name="menu_rules">Ережелер</string>
+    <string name="menu_about_us">Біз жайлы</string>
+    <string name="menu_change_language">Тіл өзгерту</string>
+    <string name="menu_sing_out">Шығу</string>
+
+    <!--    End Menu strings-->
+    <string name="ok">Жарайды</string>
+    <string name="yes">Ия</string>
+    <string name="no">Жоқ</string>
+    <string name="delete">Өшіру</string>
+    <string name="del_profile_subjects">Өшіруді қалайсыз ба?</string>
+    <string name="profile_subjects_deleted">Группа сәтті өшірілді!</string>
+    <string name="menu_users">Пайдаланушылар рейтингі</string>
+    <string name="bookDescFragment">Сипаттама</string>
+    <string name="userReadingFragment">Оқитын пайдаланушы</string>
+    <string name="alreadyReadFragment">Қазірдің өзінде оқылған</string>
+    <string name="userReviewsFragment">Пікірлер</string>
+    <string name="edit_book">Кітапты өңдеу</string>
+    <string name="change_image">Суретті өзгерту</string>
+    <string name="scan_code">Сканерлеу коды: </string>
+    <string name="scan_error">Qr сканерінің қатесі</string>
+    <string name="change_bimage">Кітап кескінін өзгерту</string>
+    <string name="uploaded">Жүктеп салынды </string>
+    <string name="b_fill_name">Атын толтырыңыз</string>
+    <string name="b_fill_author">Авторды толтырыңыз </string>
+    <string name="b_fill_desc">Сипаттама толтырыңыз</string>
+    <string name="b_fill_page_number">Бет нөмірін толтырыңыз</string>
+    <string name="b_fill_amount">Кітаптың көлемін толтырыңыз</string>
+    <string name="b_fill_qr_code">Кітаптың qr кодын сканерлеңіз</string>
+    <string name="b_fill_book_img">Кітап суретін таңдаңыз</string>
+    <string name="book_added">Кітап қосылды</string>
+    <string name="book_saved">Кітап сақталды</string>
+    <string name="b_image_error">Кітап кескініндегі қате, әрекетті қайталаңыз!</string>
+    <string name="can_not_booklist_ver"> firebase табылмады</string>
+    <string name="permission_granted">Рұқсат әлдеқашан берілген!</string>
+    <string name="permission_granted_access_camera">Рұқсат берілді, енді сіз камераға қол жеткізе аласыз</string>
+    <string name="permission_granted_not_access_camera">Рұқсат қабылданбады, сіз камераға қол жеткізе алмайсыз</string>
+    <string name="permission_both">Рұқсаттың екеуіне де кіруге рұқсат беруіңіз керек</string>
+    <string name="group">Топ: </string>
+    <string name="page">Бет: </string>
+    <string name="not_finished_book">Сізде аяқталмаған кітап бар, жаңа кітап алу үшін оны аяқтау керек!</string>
+    <string name="sure_read_book">Сіз бұл кітапты міндетті түрде оқисыз ба?</string>
+    <string name="book_added_to_profile">Профильге кітап қосылды</string>
+    <string name="book_deleted">Кітап жойылды</string>
+    <string name="send_reset_password">Біз сізге құпия сөзді қалпына келтіру туралы нұсқауларды жібердік!</string>
+    <string name="railed_send_reset_email">"Қалпына келтіру электрондық поштасын жіберу мүмкін болмады!"</string>
+    <string name="login_or_pass_error">Электрондық пошта немесе құпия сөз дұрыс емес жазылды!</string>
+    <string name="admin_email_error">Админ емайл қате</string>
+    <string name="fill_all">Барлық ақпаратты толтырыңыз</string>
+    <string name="incorrect_phone_number">Неправильный номер телефона</string>
+    <string name="incorrect_pin_number">PIN-код неверен, проверьте и повторите ещё раз</string>
+    <string name="groups">Топтар </string>
+    <string name="add_user">Пайдаланушы қосу</string>
+    <string name="edit_user">Пайдаланушыны өңдеу</string>
+    <string name="users">пайдаланушылар</string>
+    <string name="user">Қолданушы: </string>
+    <string name="call">Қоңырау шалу</string>
+    <string name="sms">қысқаша хабар қызметі</string>
+    <string name="user_profile">Пайдаланушы профилі </string>
+    <string name="password_enter_error">Құпия сөз әлсіз енгіздіңіз, қайтадан жасап көріңіз!</string>
+    <string name="email_enter_error">Email қате жаздыңыз,қайтадан жасап көріңіз!</string>
+    <string name="email_duplicat_error">Мұндай почтамен қолданушы енгізілген!</string>
+    <string name="user_saved">Пайдаланушы сақталды</string>
+    <string name="admin_not_rated">әлі бағаланбаған</string>
+    <string name="filter_gold">Алтын пайдаланушылар бойынша сүзгілеу</string>
+    <string name="filter_silver">Silver пайдаланушылары бойынша сүзгілеу</string>
+    <string name="filter_bronze">Қола пайдаланушылары бойынша сүзгілеу</string>
+    <string name="filter_other">БОЙЫНША сүзгілеу Бағаланбаған пайдаланушылар</string>
+    <string name="filter_all">Барлық пайдаланушыларды көрсету</string>
+    <string name="reading">Оқу</string>
+    <string name="readed">Оқылған</string>
+    <string name="reviews">Пікірлер</string>
+    <string name="recommendations">Ұсыныстар</string>
+    <string name="delete_user">Пайдаланушыны жою!</string>
+    <string name="sure_delete_user">Пайдаланушыны жоюға сенімдісіз бе: </string>
+    <string name="user_deleted">Пайдаланушы жойылды</string>
+    <string name="lang_chaned">Тіл өзгертілді</string>
+    <string name="ceo_mds_program">Программашы</string>
+    <string name="ceo_mds_reads">Программашы</string>
+    <string name="project_developer">Жоба әзірлеушісі</string>
+    <string name="project_manager">Жоба менеджері</string>
+    <!--    Rule strings-->
+
+    <string name="rule">Ереже: </string>
+    <string name="enter_rule_title">Ереже тақырыбын енгізіңіз</string>
+    <string name="enter_rule_title_error">Ереже тақырыбын толтырыңыз</string>
+    <string name="enter_rule_desc">Ережені азайтуды енгізіңіз</string>
+    <string name="enter_rule_desc_error">Ережені толтыру</string>
+    <string name="rule_added">Ереже сәтті қосылды</string>
+    <string name="rule_changed">Ереже сәтті өзгертілді</string>
+    <string name="rule_delete">Бұл ережені жоюға сенімдісіз бе?</string>
+    <string name="rule_deleted">Ереже жойылды</string>
+
+    <!--    End rule strings-->
+
+    <string name="submit">Жіберу</string>
+    <string name="cancel">Болдырмау</string>
+    <string name="group_added">Топ сәтті қосылды</string>
+    <string name="surname_name">Тегі, аты</string>
+    <string name="email">Электрондық пошта</string>
+    <string name="phone_number">Телефон нөмірі</string>
+    <string name="user_rating">Топта бағалау</string>
+    <string name="point">Нүкте</string>
+    <string name="points">Нүкте: </string>
+    <string name="books">Кітаптар: </string>
+    <string name="read_books">Кітап оқу</string>
+    <string name="choose_group">Топты таңдаңыз:</string>
+    <string name="register_user">Пайдаланушыны тіркеу</string>
+    <string name="admin_rate_txt">Әкімші бағасы: </string>
+
+    <string name="book_name">Кітап аты</string>
+    <string name="book_author">Кітап авторы</string>
+    <string name="rating">Рейтинг:</string>
+    <string name="read">Оқыңыз</string>
+    <string name="upload_book_image">Кітап суретін жүктеп салу</string>
+    <string name="enter_book_name">кітап атын енгізіңіз</string>
+    <string name="enter_author">авторын енгізіңіз</string>
+    <string name="enter_desc">сипаттаманы енгізіңіз</string>
+    <string name="enter_page_number">бет нөмірін енгізіңіз</string>
+    <string name="enter_amount_of_book">кітап көлемін енгізіңіз</string>
+    <string name="scanner_qr_code">сканер кітабы qr коды</string>
+    <string name="add_book">Кітап қосу</string>
+    <string name="all">Барлық</string>
+    <string name="data_loading">Күте тұрыңыз, ақпараттар жүктеліп жатыр..</string>
+
+    <string name="enter_code">SMS-тен кодты енгізіңіз</string>
+    <string name="code_sent">код жіберілді </string>
+    <string name="email_sent">User почтасына ссылка жіберілді</string>
+    <string name="email_sent_error">Почтаға ссылка жіберуде қате болды, басынан қайталаңыз</string>
+    <string name="user_phone_duplicate">«Бұл телефон нөмірі бар пайдаланушы бұрыннан бар</string>
+    <string name="user_group_not_exist">Қолданушылар группасы енгізілмеген</string>
+    <string name="fill_info">Мәліметтерді толтырыңыз</string>
+    <string name="fill_email">Электрондық поштаны дұрыс толтырыңыз</string>
+    <string name="fill_number">Нөмірді толтырыңыз</string>
+    <string name="write_a_review">Пікір жазу</string>
+    <string name="check_a_review">Шолуды тексеріңіз</string>
+    <string name="rate_it">Бағалаңыз</string>
+    <string name="user_rated">Пайдаланушы бағалады</string>
+    <string name="admin_rate">Әкімші бағасын қарап шығу</string>
+    <string name="save">Сақтау</string>
+    <string name="rating_error">Бағалау немесе шолу мәтіні жарамсыз</string>
+    <string name="sort_name">АТЫ БОЙЫНША СҰРЫПТАУ</string>
+    <string name="sort_book">ОҚУ КІТАПТАРЫ БОЙЫНША СҰРЫПТАУ</string>
+    <string name="sort_point">Нүкте бойынша сұрыптау</string>
+    <string name="not_logged_in_yet">әлі кірген жоқ</string>
+    <string name="re_calc_points">Группалардың және қолданушылардың ұпайлары есептелуде, күте тұрыңыз..</string>
+    <string name="rated_successfully">сәтті бағаланды</string>
+
+    <integer-array name="gradientStore">
+        <item>@drawable/gradient1</item>
+        <item>@drawable/gradient2</item>
+        <item>@drawable/gradient3</item>
+        <item>@drawable/gradient4</item>
+        <item>@drawable/gradient5</item>
+        <item>@drawable/gradient6</item>
+        <item>@drawable/gradient7</item>
+        <item>@drawable/gradient8</item>
+        <item>@drawable/gradient1</item>
+        <item>@drawable/gradient2</item>
+        <item>@drawable/gradient3</item>
+        <item>@drawable/gradient4</item>
+        <item>@drawable/gradient5</item>
+        <item>@drawable/gradient6</item>
+        <item>@drawable/gradient7</item>
+        <item>@drawable/gradient8</item>
+        <item>@drawable/gradient1</item>
+        <item>@drawable/gradient2</item>
+        <item>@drawable/gradient3</item>
+        <item>@drawable/gradient4</item>
+        <item>@drawable/gradient5</item>
+        <item>@drawable/gradient6</item>
+        <item>@drawable/gradient7</item>
+        <item>@drawable/gradient8</item>
+    </integer-array>
+
+    <integer-array name="subjectStore">
+        <item>@drawable/subject1</item>
+        <item>@drawable/subject2</item>
+        <item>@drawable/subject3</item>
+        <item>@drawable/subject4</item>
+        <item>@drawable/subject5</item>
+        <item>@drawable/subject1</item>
+        <item>@drawable/subject2</item>
+        <item>@drawable/subject3</item>
+        <item>@drawable/subject4</item>
+        <item>@drawable/subject5</item>
+        <item>@drawable/subject1</item>
+        <item>@drawable/subject2</item>
+        <item>@drawable/subject3</item>
+        <item>@drawable/subject4</item>
+        <item>@drawable/subject5</item>
+        <item>@drawable/subject1</item>
+        <item>@drawable/subject2</item>
+        <item>@drawable/subject3</item>
+        <item>@drawable/subject4</item>
+        <item>@drawable/subject5</item>
+    </integer-array>
+
+    <integer-array name="colorStore">
+        <item>@color/bigColor</item>
+        <item>@color/cyan</item>
+        <item>@color/orange</item>
+        <item>@color/red</item>
+        <item>@color/light_green</item>
+        <item>@color/pink</item>
+        <item>@color/bigColor</item>
+        <item>@color/cyan</item>
+        <item>@color/orange</item>
+        <item>@color/red</item>
+        <item>@color/light_green</item>
+        <item>@color/pink</item>
+        <item>@color/bigColor</item>
+        <item>@color/cyan</item>
+        <item>@color/orange</item>
+        <item>@color/red</item>
+        <item>@color/light_green</item>
+        <item>@color/pink</item>
+    </integer-array>
+
+    <string-array name="months">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="months2">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="monthStore">
+        <item>Қаңтар</item>
+        <item>Ақпан</item>
+        <item>Наурыз</item>
+        <item>Сәуір</item>
+        <item>Мамыр</item>
+        <item>Маусым</item>
+        <item>Шілде</item>
+        <item>Тамыз</item>
+        <item>Қыркүйек</item>
+        <item>Қазан</item>
+        <item>Қараша</item>
+        <item>Желтоқсан</item>
+    </string-array>
+
+
+</resources>

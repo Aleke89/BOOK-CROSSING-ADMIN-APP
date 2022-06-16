@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#e15b4e42</item>
+        <item name="colorPrimaryDark">#e15b4e42</item>
+        <item name="colorAccent">#e15b4e42</item>
+        <item name="android:fontFamily">@font/qbold</item>
+        <item name="colorControlHighlight">@color/white</item>
+    </style>
+    <style name="Hei" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorControlHighlight">@color/white</item>
+        <item name="android:fontFamily">@font/qbold</item>
+    </style>
+
+</resources>
